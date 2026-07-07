@@ -1,12 +1,20 @@
 # <p align="center">PRABHAT TRIPATHI</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%5B+AI+%2F+ML+Student+%5D;%5B+Backend+Developer+%5D;%5B+Problem+Solver+%5D&center=true&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%5B+Backend+%26+AI+Developer+Intern+%5D;%5B+Building+Voice-RAG+Pipelines+%5D;%5B+LeetCode+Daily+Problem+Solver+%5D;%5B+Google+Cloud+Arcade+Facilitator+%5D&center=true&vCenter=true&size=20&color=3776AB" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
-  <strong>Backend Developer | Data Analyst | Problem Solver</strong>
+  🖥️ <code><b>Backend Architecture</b></code> • 🤖 <code><b>AI Agent Systems</b></code> • 📊 <code><b>Data Analysis</b></code>
 </p>
+
+<p align="center">
+  <i>"Building scalable, intelligent systems that solve real-world problems."</i>
+</p>
+
+---
 
 ---
 
