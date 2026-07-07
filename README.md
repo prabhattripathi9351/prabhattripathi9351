@@ -1,5 +1,10 @@
 # <p align="center">PRABHAT TRIPATHI</p>
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%5B+AI+%2F+ML+Student+%5D;%5B+Backend+Developer+%5D;%5B+Problem+Solver+%5D&center=true&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
   <strong>Backend Developer | Data Analyst | Problem Solver</strong>
 </p>
 
