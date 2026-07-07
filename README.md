@@ -1,16 +1,24 @@
-## Hi there 👋
+# <p align="center">PRABHAT TRIPATHI</p>
+<p align="center">
+  <strong>Backend Developer | Data Analyst | Problem Solver</strong>
+</p>
 
-<!--
-**prabhattripathi9351/prabhattripathi9351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhattripathi9351&show_icons=true&theme=dark" alt="Prabhat's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhattripathi9351&theme=dark" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👤 About Me
+```json
+{
+  "name": "Prabhat Tripathi",
+  "role": "B.Tech CSE Student",
+  "location": "Kota, Rajasthan, India",
+  "interests": ["Backend Development", "Data Analysis", "Machine Learning"],
+  "currently_learning": ["Data Structures & Algorithms", "System Design"]
+}
