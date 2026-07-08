@@ -29,11 +29,14 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhattripathi9351&show_icons=true&theme=dark" alt="Prabhat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhattripathi9351&show_icons=true&theme=dark&count_private=true" alt="Prabhat's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhattripathi9351&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
 ---
 
 ### 👤 About Me
