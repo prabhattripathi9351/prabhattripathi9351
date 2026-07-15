@@ -1,6 +1,7 @@
 <p align="center">
 <pre align="center">
-𝙿𝚛𝚊𝚋𝚑𝚊𝚝 𝚃𝚛𝚒𝚙𝚊𝚝𝚑𝚒
+Prabhat Tripathi<img width="1124" height="263" alt="image" src="https://github.com/user-attachments/assets/177bdc89-93f4-4d8c-a00a-5e6f84b3a61d" />
+
 </pre>
 </p>
 
