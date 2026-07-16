@@ -36,6 +36,12 @@
 ---
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhattripathi9351/prabhattripathi9351/main/.github/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhattripathi9351/prabhattripathi9351/main/.github/assets/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/prabhattripathi9351/prabhattripathi9351/main/.github/assets/snake.svg" />
+</picture>
+
 ### 👤 About Me
 ```json
 {
